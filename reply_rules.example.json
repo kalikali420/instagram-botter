@@ -1,0 +1,11 @@
+{
+  "use_ai": false,
+  "brand_voice": "warm, upbeat, no more than one emoji",
+  "business_info": "Small bakery in Pune. Open Tue-Sun 8am-7pm. Orders via the link in bio.",
+  "max_replies_per_run": 20,
+  "rules": [
+    {"keywords": ["price", "cost", "how much"], "reply": "Thanks for asking! Prices are on the menu at the link in our bio."},
+    {"keywords": ["hours", "open", "timing"], "reply": "We're open Tue-Sun, 8am to 7pm. See you soon!"},
+    {"keywords": ["love", "amazing", "beautiful"], "reply": "Thank you so much! 💛"}
+  ]
+}
